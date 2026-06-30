@@ -1,50 +1,61 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050a0f,40:0a1f35,100:003d5c&text=Sumaya%20Akter&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Laravel%20%7C%20FastAPI&descAlignY=60&descSize=18&stroke=00c8ff&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:111827,40:312e81,100:7c3aed&text=Sumaya%20Akter&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Laravel%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=60&descSize=18&stroke=22d3ee&strokeWidth=1"/>
 
 <br/>
 
-<a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Laravel+%26+PHP+Developer;FastAPI+%26+React+Builder;Building+Scalable+Web+Systems" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Laravel+%26+PHP+Developer;Full-Stack+Engineer;Backend+%26+API+Specialist;Building+Scalable+Web+Systems" alt="Typing SVG"/></a>
 
 <br/>
 
-<a href="https://github.com/sumaya76" target="_blank"><img src="https://komarev.com/ghpvc/?username=sumaya76&label=Profile+Views&color=0a1f35&style=for-the-badge&labelColor=00c8ff"/></a>
+<a href="https://github.com/sumaya76" target="_blank"><img src="https://komarev.com/ghpvc/?username=sumaya76&label=Profile+Views&color=111827&style=for-the-badge&labelColor=8b5cf6"/></a>
 &nbsp;
-<a href="https://www.google.com/maps/place/Uttara,+Dhaka" target="_blank"><img src="https://img.shields.io/badge/📍_Location-Uttara,%20Dhaka-00c8ff?style=for-the-badge&labelColor=0a1f35"/></a>
+<a href="https://www.google.com/maps/place/Uttara,+Dhaka" target="_blank"><img src="https://img.shields.io/badge/📍_Location-Uttara,%20Dhaka-8b5cf6?style=for-the-badge&labelColor=111827"/></a>
 &nbsp;
-<a href="https://sumayaportfolio.lovable.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-sumayaportfolio.lovable.app-00ff9d?style=for-the-badge&labelColor=0a1f35"/></a>
+<a href="https://sumayaportfolio.lovable.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-sumayaportfolio.lovable.app-22d3ee?style=for-the-badge&labelColor=111827"/></a>
 &nbsp;
-<a href="https://linkedin.com/in/sumaya-1920921a5/" target="_blank"><img src="https://img.shields.io/badge/🤝_Status-Open_to_Collaborate-a78bfa?style=for-the-badge&labelColor=0a1f35"/></a>
+<a href="https://linkedin.com/in/sumaya-1920921a5/" target="_blank"><img src="https://img.shields.io/badge/🤝_Status-Open_to_Collaborate-a78bfa?style=for-the-badge&labelColor=111827"/></a>
 
 <br/>
 
-<a href="tel:+8801690253986" target="_blank"><img src="https://img.shields.io/badge/📞_Phone-01690253986-00c8ff?style=for-the-badge&labelColor=0a1f35"/></a>
+<a href="tel:+8801690253986" target="_blank"><img src="https://img.shields.io/badge/📞_Phone-01690253986-8b5cf6?style=for-the-badge&labelColor=111827"/></a>
 &nbsp;
-<a href="mailto:sumaya0akter45@gmail.com" target="_blank"><img src="https://img.shields.io/badge/✉️_Email-sumaya0akter45@gmail.com-EA4335?style=for-the-badge&labelColor=0a1f35"/></a>
+<a href="mailto:sumaya0akter45@gmail.com" target="_blank"><img src="https://img.shields.io/badge/✉️_Email-sumaya0akter45@gmail.com-EA4335?style=for-the-badge&labelColor=111827"/></a>
 
 </div>
 
 ---
 
+<div align="center">
+  <div style="display:inline-block; padding:16px 24px; border:1px solid #8b5cf6; border-radius:18px; background:linear-gradient(90deg, rgba(17,24,39,0.95), rgba(49,46,129,0.95)); box-shadow:0 10px 35px rgba(139,92,246,0.2);">
+    <b>✨ Building reliable web products with Laravel, PHP, REST APIs, and modern full-stack solutions.</b>
+  </div>
+</div>
+
+<br/>
+
 ## 🧑‍💻 About Me
+
+<div style="background:linear-gradient(135deg, rgba(17,24,39,0.95), rgba(30,41,59,0.9)); border:1px solid rgba(34,211,238,0.25); border-radius:20px; padding:20px; box-shadow:0 10px 35px rgba(0,0,0,0.25);">
 
 <img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-I don't just develop software — I craft digital stories that are as elegant under the hood as they are in the user's hands. I build with purpose, passion, and a constant eye on improvement.
+I’m a Laravel-focused software engineer who mainly builds reliable web applications with clean architecture, secure APIs, and thoughtful user experiences. My core strength is backend development with PHP and Laravel, and I also work comfortably on modern frontend solutions when needed.
 <br/>
 
-🔹 **Interests:** Full-Stack Development, Backend Engineering, SaaS Platforms, AI-Assisted Development
+🔹 **Core Strength:** Laravel, PHP, REST APIs, MySQL, backend system design
 
-🔹 **Skills:** PHP, Laravel, FastAPI, Django, React, Next.js, Vue.js, TypeScript, Tailwind CSS, MySQL, PostgreSQL, MongoDB
+🔹 **Also Comfortable With:** React, Next.js, Vue.js, FastAPI, Django, Tailwind CSS
 
-🔹 **Focus:** Building scalable web platforms, secure APIs, and modern business solutions
+🔹 **Focus:** Building scalable business platforms, secure web applications, and solutions that solve real-world problems
 <br/>
 
-Currently working on full-stack applications with real-world impact, from recruitment systems and hospital management platforms to cooperative and education management solutions.
+I’ve worked on recruitment systems, hospital platforms, cooperative management tools, and education solutions, with a strong focus on practical, maintainable development.
 
-Always curious to learn, build, and innovate. ✨
+Always curious to learn, build, and improve. ✨
 
 <br clear="right"/>
+</div>
 
 ---
 
@@ -52,63 +63,64 @@ Always curious to learn, build, and innovate. ✨
 
 <div align="center">
 
-| 📚 **Currently Learning** | 🤝 **Open to Collaborate** |
-|:---|:---|
-| Advanced System Design | SaaS & Startup Products |
-| AI-Integrated Applications | Enterprise Web Platforms |
-| Modern API Architecture | Full-Stack Projects |
-| Deployment & DevOps Practices | Product-Driven Innovation |
+<table width="100%" cellpadding="12" cellspacing="0" border="0">
+<tr>
+<td width="50%" align="center" style="background:linear-gradient(135deg, rgba(17,24,39,0.95), rgba(30,41,59,0.95)); border:1px solid rgba(139,92,246,0.35); border-radius:16px; padding:12px; box-shadow:0 8px 24px rgba(139,92,246,0.15);">
+<b>🔧 Core Focus</b><br/>Laravel, PHP & Backend Architecture<br/>REST APIs, MySQL & Performance
+</td>
+<td width="50%" align="center" style="background:linear-gradient(135deg, rgba(17,24,39,0.95), rgba(8,47,73,0.95)); border:1px solid rgba(34,211,238,0.35); border-radius:16px; padding:12px; box-shadow:0 8px 24px rgba(34,211,238,0.15);">
+<b>🌱 Also Exploring</b><br/>AI-powered web products<br/>LLM/API integration & automation
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## � Current Role
+## 💼 Current Role
 
-Software Engineer — Backend Developer focused on building scalable backend systems, secure APIs, and AI-integrated web solutions.
+Laravel Developer & Backend Engineer focused on building scalable web applications, secure APIs, and dependable business solutions with PHP and Laravel at the core.
 
 ## 🔧 Current Role Skills
 
-- Backend Development
-- PHP Programming
-- Laravel Framework
-- MVC Architecture
-- RESTful API Development
-- API Integration
-- Backend Architecture (Controllers, Services, Middleware, Jobs, Queues)
-- Authentication & Authorization
-- Database Design
-- MySQL
-- Eloquent ORM
-- Query Optimization & Indexing
-- Performance Optimization & Caching
-- Debugging & Issue Resolution
-- Unit & Functional Testing
-- Deployment Support (Staging & Production)
-- Documentation & Technical Writing
-- AI/ML Model Integration
-- AI API Development
-- Data Preparation & Cleaning
-- Data Processing & Structuring
-- Dataset Documentation
-- FastAPI Integration
-- AI Feature Backend Support
-- Model Testing & Output Validation
-- Docker & Server-Based Deployment Support
-- Cross-Team Collaboration
-- Task & Deadline Management
-- Process & SOP Compliance
-- Continuous Learning & Skill Development
+- Backend Development: PHP, Laravel, FastAPI, Django, RESTful APIs, MVC Architecture, Authentication & Authorization
+- Frontend Development: HTML, CSS, JavaScript, TypeScript, Bootstrap, AJAX, Vue.js, React, Next.js, Tailwind CSS
+- Database & Data Management: MySQL, PostgreSQL, MongoDB, Database Design, Data Management, Query Optimization
+- Payments & Integrations: SSLCommerz, PayPal, Google Maps API, API Integration, Backend System Design
+- Deployment & Tools: Git, GitHub, Postman, VS Code, cPanel, LocalWP, Docker, Domain & SSL Setup, Hosting & Deployment
+- AI-Assisted Development: ChatGPT, GitHub Copilot, Cursor IDE, Codeium, AI API Integration
+- Other Strengths: Debugging, Performance Optimization, SEO Implementation, Team Collaboration, Documentation, Problem Solving
 
 ---
 
-## �💼 Experience Snapshot
+## 📌 Experience Snapshot
 
 - Software Engineer — Backend Developer at Time Research & Innovation (Nov 2025 – Present)
 - IT Admin Officer at Zone Sparks Limited (Dec 2024 – Nov 2025)
 - PHP Web Developer (Intern) at BarcodeTech Automation (Feb 2024 – May 2024)
 
-Focused on building scalable backend systems, deployable web applications, and modern full-stack solutions.
+Focused on Laravel-based backend development, API building, deployment, and end-to-end web application delivery.
+
+---
+
+## ✨ Highlights
+
+<div align="center">
+<table width="100%" cellpadding="10" cellspacing="12" border="0">
+<tr>
+<td width="33%" align="center" style="background:linear-gradient(135deg, rgba(17,24,39,0.95), rgba(30,41,59,0.95)); border:1px solid rgba(139,92,246,0.25); border-radius:16px; padding:12px;">
+<b>🧠 Backend-first</b><br/>Laravel, PHP, and scalable APIs
+</td>
+<td width="33%" align="center" style="background:linear-gradient(135deg, rgba(17,24,39,0.95), rgba(30,41,59,0.95)); border:1px solid rgba(34,211,238,0.25); border-radius:16px; padding:12px;">
+<b>⚡ Full-stack ready</b><br/>React, Next.js, Vue, and Tailwind
+</td>
+<td width="33%" align="center" style="background:linear-gradient(135deg, rgba(17,24,39,0.95), rgba(30,41,59,0.95)); border:1px solid rgba(16,185,129,0.25); border-radius:16px; padding:12px;">
+<b>🚀 Product mindset</b><br/>Deployment, integrations, and real solutions
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -334,6 +346,14 @@ Focused on building scalable backend systems, deployable web applications, and m
 <a href="https://github.com/sumaya76?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/📁_Explore_All_Repositories-050a0f?style=for-the-badge&logo=github&logoColor=00c8ff&labelColor=0a1f35" alt="All Repos"/></a>
 
 </div>
+
+---
+
+## 🌟 Achievements & Interests
+
+- British Council Award — Book Reading Program (2020)
+- Passionate about clean backend architecture, scalable systems, and practical problem solving
+- Enjoys exploring new technologies while building reliable products for real users
 
 ---
 
