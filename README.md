@@ -228,18 +228,33 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 <td width="55%" valign="middle" align="left">
 
 ### 🏢 <a href="https://binimoye.timerni.com/" target="_blank">Binimoy Management System</a>
-**Live Demo: [binimoye.timerni.com](https://binimoye.timerni.com/)**
 
-- Management system built with Laravel 11 and PHP 8.2 for smooth business operations
-- Secure authentication and role-based access control for different users
-- Responsive UI with Bootstrap 5, JavaScript, AJAX, and dynamic interactions
-- Designed for efficient data handling and modern admin workflows
+<div>
+<a href="https://binimoye.timerni.com/" target="_blank"><img src="https://img.shields.io/badge/🔗_LIVE_SITE-0d1117?style=flat-square&labelColor=000000&color=0d1117" alt="Live Site"/></a>
+&nbsp;
+<a href="https://papersgraph.com/" target="_blank"><img src="https://img.shields.io/badge/📊_PAPERSGRAPH.COM-000000?style=flat-square&labelColor=00d4ff&color=00d4ff&textColor=000000" alt="PapersGraph"/></a>
+</div>
+
+<br/>
+
+A powerful business and financial management platform developed with **Laravel 11**, **PHP 8.2**, and **MySQL**, designed to streamline daily business operations through secure workflows, automated processes, and role-based administration.
+
+**Key Features:**
+- Secure authentication with Role-Based Access Control (RBAC)
+- Member, customer, and business record management
+- Financial transaction and reporting modules
+- Dynamic dashboards with real-time data insights
+- Responsive admin interface using Bootstrap 5
+- AJAX-powered CRUD operations for seamless user experience
+- Secure data validation and optimized database performance
+- Modular architecture following Laravel best practices
 
 <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel_11-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel 11"/></a>
 <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP_8.2-0d1117?style=flat-square&logo=php&logoColor=777BB4" alt="PHP 8.2"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL"/></a>
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap_5-0d1117?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap 5"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank"><img src="https://img.shields.io/badge/AJAX-0d1117?style=flat-square&logoColor=F7DF1E" alt="AJAX"/></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js"/></a>
 <a href="https://getcomposer.org/" target="_blank"><img src="https://img.shields.io/badge/Composer-0d1117?style=flat-square&logo=composer&logoColor=885630" alt="Composer"/></a>
 
