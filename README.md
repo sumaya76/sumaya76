@@ -82,45 +82,6 @@ Always curious to learn, build, and improve. ✨
 
 Laravel Developer & Backend Engineer focused on building scalable web applications, secure APIs, and dependable business solutions with PHP and Laravel at the core.
 
-## 🔧 Current Role Skills
-
-I’m comfortable working across these areas and technologies:
-
-<div align="center">
-
-**BACKEND DEVELOPMENT**  
-<kbd>PHP</kbd> <kbd>Laravel</kbd> <kbd>FastAPI</kbd> <kbd>Django</kbd> <kbd>RESTful API</kbd> <kbd>MVC Architecture</kbd> <kbd>Authentication & Authorization</kbd> <kbd>Backend System Design</kbd> <kbd>SEO Implementation</kbd>
-
-<br/>
-
-**FRONTEND DEVELOPMENT**  
-<kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>Bootstrap</kbd> <kbd>AJAX</kbd> <kbd>JavaScript</kbd> <kbd>TypeScript</kbd> <kbd>Vue.js</kbd> <kbd>React</kbd> <kbd>Next.js</kbd> <kbd>Tailwind CSS</kbd> <kbd>Figma</kbd>
-
-<br/>
-
-**DATABASE MANAGEMENT**  
-<kbd>MySQL</kbd> <kbd>PostgreSQL</kbd> <kbd>MongoDB</kbd> <kbd>Database Design</kbd> <kbd>Data Management</kbd> <kbd>Query Optimization</kbd> <kbd>LocalWP</kbd>
-
-<br/>
-
-**PAYMENT GATEWAY**  
-<kbd>SSLCommerz</kbd> <kbd>PayPal</kbd>
-
-<br/>
-
-**TOOLS & PLATFORMS**  
-<kbd>Git</kbd> <kbd>GitHub</kbd> <kbd>Postman</kbd> <kbd>VS Code</kbd> <kbd>cPanel</kbd> <kbd>Google Maps API</kbd> <kbd>Deployment & Hosting</kbd> <kbd>Domain & SSL Setup</kbd>
-
-<br/>
-
-<div style="width:100%; max-width:760px; margin:0 auto; background:linear-gradient(135deg, rgba(59,130,246,0.12), rgba(168,85,247,0.15)); border:1px solid rgba(139,92,246,0.25); border-radius:18px; padding:18px; box-shadow:0 18px 40px rgba(15,23,42,0.12);">
-<b style="display:block; margin-bottom:10px; color:#e0e7ff;">🤖 AI-Assisted Development</b>
-<kbd>ChatGPT</kbd> <kbd>GitHub Copilot</kbd> <kbd>Cursor IDE</kbd> <kbd>Codeium</kbd>
-</div>
-
-</div>
-
----
 
 ## 📌 Experience Snapshot
 
