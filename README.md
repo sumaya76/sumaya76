@@ -113,41 +113,113 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 
 ---
 
-## 🧰 Tech Stack
-
-### 💻 Languages & Frameworks
+<h2>🧰 Tech Stack</h2>
 
 <div align="center">
 
-<a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-050a0f?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP"/></a>
-<a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-050a0f?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel"/></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-050a0f?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-050a0f?style=for-the-badge&logo=django&logoColor=00ff9d" alt="Django"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-050a0f?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-050a0f?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/></a>
-<a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-050a0f?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-050a0f?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="Next.js"/></a>
-<a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-050a0f?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-050a0f?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/></a>
+<h3>💻 Backend Development</h3>
+
+<img src="https://img.shields.io/badge/PHP-050a0f?style=for-the-badge&logo=php&logoColor=777BB4"/>
+<img src="https://img.shields.io/badge/Laravel-050a0f?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
+<img src="https://img.shields.io/badge/FastAPI-050a0f?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/Django-050a0f?style=for-the-badge&logo=django&logoColor=00ff9d"/>
+<img src="https://img.shields.io/badge/Node.js-050a0f?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/REST_API_|_API_Integration_|_MVC-050a0f?style=flat-square"/>
+<img src="https://img.shields.io/badge/Auth_|_OAuth_|_JWT-050a0f?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backend_System_Design_|_SEO_Implementation-050a0f?style=flat-square"/>
+<br>
+
+
+
+<br><br>
+
+<h3>🎨 Frontend Development</h3>
+
+<img src="https://img.shields.io/badge/HTML5-050a0f?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-050a0f?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/Bootstrap-050a0f?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-050a0f?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/JavaScript-050a0f?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-050a0f?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/React-050a0f?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-050a0f?style=for-the-badge&logo=nextdotjs&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Vue.js-050a0f?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/AJAX_|_Responsive_Design_|_Figma-050a0f?style=flat-square"/>
+
+<br><br>
+
+<h3>🗄️ Database Management</h3>
+
+<img src="https://img.shields.io/badge/MySQL-050a0f?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/PostgreSQL-050a0f?style=for-the-badge&logo=postgresql&logoColor=336791"/>
+<img src="https://img.shields.io/badge/MongoDB-050a0f?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Database_Design_|_Query_Optimization_|_Data_Management-050a0f?style=flat-square"/>
+
+<br><br>
+
+<h3>🤖 AI • Generative AI • LLM</h3>
+
+<img src="https://img.shields.io/badge/Python-050a0f?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/LangChain-050a0f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mistral_AI-050a0f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-050a0f?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/LLMs_|_Prompt_Engineering_|_RAG-050a0f?style=flat-square"/>
+<img src="https://img.shields.io/badge/Document_Loaders_|_Text_Splitters_|_Embeddings-050a0f?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vector_DB_|_Prompt_Templates_|_Output_Parsers-050a0f?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pydantic_|_Memory_|_Chains-050a0f?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tools_|_Tool_Calling_|_AI_Agents-050a0f?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangServe_|_LangSmith-050a0f?style=flat-square"/>
+
+<br><br>
+
+<h3>💳 Payment Gateway</h3>
+
+<img src="https://img.shields.io/badge/SSLCommerz-050a0f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PayPal-050a0f?style=for-the-badge&logo=paypal&logoColor=00457C"/>
+
+<br><br>
+
+<h3>🛠️ Tools & Platforms</h3>
+
+<img src="https://img.shields.io/badge/Git-050a0f?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-050a0f?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Postman-050a0f?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/VS_Code-050a0f?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/cPanel-050a0f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google_Maps_API-050a0f?style=for-the-badge&logo=googlemaps&logoColor=4285F4"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Deployment_|_Hosting_|_Domain_|_SSL-050a0f?style=flat-square"/>
+
+<br><br>
+
+<h3>🤝 AI-Assisted Development</h3>
+
+<img src="https://img.shields.io/badge/ChatGPT-050a0f?style=for-the-badge&logo=openai&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Claude_AI-050a0f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Perplexity-050a0f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-050a0f?style=for-the-badge&logo=githubcopilot&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Cursor-050a0f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Codeium-050a0f?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/AI_Pair_Programming_|_Code_Generation_|_Debugging-050a0f?style=flat-square"/>
 
 </div>
-
-### 🔧 Backend, Databases & Tools
-
-<div align="center">
-
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-050a0f?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-050a0f?style=for-the-badge&logo=postgresql&logoColor=336791" alt="PostgreSQL"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-050a0f?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-050a0f?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-050a0f?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman"/></a>
-<a href="https://www.ssl.com/" target="_blank"><img src="https://img.shields.io/badge/SSLCommerz-050a0f?style=for-the-badge&logoColor=ffffff" alt="SSLCommerz"/></a>
-<a href="https://www.paypal.com/" target="_blank"><img src="https://img.shields.io/badge/PayPal-050a0f?style=for-the-badge&logo=paypal&logoColor=00457C" alt="PayPal"/></a>
-<a href="https://developers.google.com/maps" target="_blank"><img src="https://img.shields.io/badge/Google_Maps_API-050a0f?style=for-the-badge&logo=googlemaps&logoColor=4285F4" alt="Google Maps API"/></a>
-
-</div>
-
----
 
 ## 📊 GitHub Analytics
 
