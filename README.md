@@ -263,6 +263,49 @@ A powerful business and financial management platform developed with **Laravel 1
 </table>
 
 <br/>
+<!-- ══════════════════════════════════════════════════════════
+     PROJECT 2 — ERP Management System
+═══════════════════════════════════════════════════════════ -->
+<table width="100%">
+<tr>
+<td width="55%" valign="middle" align="left">
+
+### 📊 <a href="https://erp.bytestore.xyz/" target="_blank">ERP Management System</a>
+
+<div>
+<a href="https://erp.bytestore.xyz/" target="_blank"><img src="https://img.shields.io/badge/🔗_LIVE_SITE-0d1117?style=flat-square&labelColor=000000&color=0d1117" alt="Live Site"/></a>
+</div>
+
+<br/>
+
+A comprehensive **Enterprise Resource Planning (ERP)** system built with **Laravel 12**, combining a secure **RESTful API** with a responsive frontend to streamline business operations, financial management, inventory control, and workforce administration.
+
+**Core Modules:**
+- Real-time dashboard with interactive analytics & financial insights
+- Sales, Purchase & Order Management with tracking
+- Inventory & Stock Control System
+- Customer, Supplier & Party Management with due tracking
+- Accounts, Banking & Financial Reporting
+- Employee & HR Management with RBAC
+- Secure API with role-based access control
+
+<a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel_12-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel 12"/></a>
+<a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP_8.2-0d1117?style=flat-square&logo=php&logoColor=777BB4" alt="PHP 8.2"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL"/></a>
+<a href="https://restfulapi.net/" target="_blank"><img src="https://img.shields.io/badge/RESTful_API-0d1117?style=flat-square&logoColor=4285F4" alt="RESTful API"/></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap_5-0d1117?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap 5"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></a>
+
+</td>
+<td width="45%" valign="middle" align="center">
+<a href="https://erp.bytestore.xyz/" target="_blank">
+<img width="100%" src="https://drive.google.com/uc?export=view&id=1VMOcU6j-ih40eDW259ZPPLaH6rz-DQnx" alt="ERP Management System"/>
+</a>
+</td>
+</tr>
+</table>
+
+<br/>
 
 <!-- ══════════════════════════════════════════════════════════
      PROJECT 2 — MediCore
