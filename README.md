@@ -228,15 +228,8 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 <td width="55%" valign="middle" align="left">
 
 ### 🏢 <a href="https://binimoye.timerni.com/" target="_blank">Binimoy Management System</a>
+**Business & Financial Management System**
 
-<div>
-<a href="https://binimoye.timerni.com/" target="_blank"><img src="https://img.shields.io/badge/🔗_LIVE_SITE-0d1117?style=flat-square&labelColor=000000&color=0d1117" alt="Live Site"/></a>
-&nbsp;
-<a href="https://binimoye.timerni.com/" target="_blank"><img src="https://img.shields.io/badge/📊_binimoye.timerni.com-000000?style=flat-square&labelColor=00d4ff&color=00d4ff&textColor=000000" alt="Binimoy Management System"/></a>
-</div>
-
-<br/>
-**Key Features:**
 - Secure authentication with Role-Based Access Control (RBAC)
 - Member, customer, and business record management
 - Financial transaction and reporting modules
@@ -250,11 +243,17 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP_8.2-0d1117?style=flat-square&logo=php&logoColor=777BB4" alt="PHP 8.2"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL"/></a>
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap_5-0d1117?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap 5"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank"><img src="https://img.shields.io/badge/AJAX-0d1117?style=flat-square&logoColor=F7DF1E" alt="AJAX"/></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js"/></a>
 <a href="https://getcomposer.org/" target="_blank"><img src="https://img.shields.io/badge/Composer-0d1117?style=flat-square&logo=composer&logoColor=885630" alt="Composer"/></a>
-
+<div>
+<a href="https://binimoye.timerni.com/" target="_blank"><img src="https://img.shields.io/badge/🔗_LIVE_SITE-0d1117?style=flat-square&labelColor=000000&color=0d1117" alt="Live Site"/></a>
+&nbsp;
+<a href="https://binimoye.timerni.com/" target="_blank"><img src="https://img.shields.io/badge/📊_binimoye.timerni.com-000000?style=flat-square&labelColor=00d4ff&color=00d4ff&textColor=000000" alt="Binimoy Management System"/></a>
+</div>
 </td>
 </tr>
 </table>
@@ -268,15 +267,9 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 <td width="55%" valign="middle" align="left">
 
 ### 📊 <a href="https://erp.bytestore.xyz/" target="_blank">ERP Management System</a>
+**Full-Stack Enterprise Resource Planning (ERP) System**
 
-<div>
-<a href="https://erp.bytestore.xyz/" target="_blank"><img src="https://img.shields.io/badge/🔗_LIVE_SITE-0d1117?style=flat-square&labelColor=000000&color=0d1117" alt="Live Site"/></a>
-&nbsp;
-<a href="https://erp.bytestore.xyz/" target="_blank"><img src="https://img.shields.io/badge/📊_erp.bytestore.xyz-000000?style=flat-square&labelColor=00d4ff&color=00d4ff&textColor=000000" alt="Binimoy Management System"/></a>
-</div>
 
-<br/>
-**Core Modules:**
 - Real-time dashboard with interactive analytics & financial insights
 - Sales, Purchase & Order Management with tracking
 - Inventory & Stock Control System
@@ -287,11 +280,21 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 
 <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel_12-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel 12"/></a>
 <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP_8.2-0d1117?style=flat-square&logo=php&logoColor=777BB4" alt="PHP 8.2"/></a>
+<a href="https://restfulapi.net/" target="_blank"><img src="https://img.shields.io/badge/RESTful_API-0d1117?style=flat-square&logo=fastapi&logoColor=009688" alt="RESTful API"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL"/></a>
-<a href="https://restfulapi.net/" target="_blank"><img src="https://img.shields.io/badge/RESTful_API-0d1117?style=flat-square&logoColor=4285F4" alt="RESTful API"/></a>
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap_5-0d1117?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap 5"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></a>
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank"><img src="https://img.shields.io/badge/AJAX-0d1117?style=flat-square&logoColor=F7DF1E" alt="AJAX"/></a>
+<a href="https://laravel.com/docs/blade" target="_blank"><img src="https://img.shields.io/badge/Laravel_Blade-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel Blade"/></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js"/></a>
+<a href="https://getcomposer.org/" target="_blank"><img src="https://img.shields.io/badge/Composer-0d1117?style=flat-square&logo=composer&logoColor=885630" alt="Composer"/></a>
+<div>
+<a href="https://erp.bytestore.xyz/" target="_blank"><img src="https://img.shields.io/badge/🔗_LIVE_SITE-0d1117?style=flat-square&labelColor=000000&color=0d1117" alt="Live Site"/></a>
+&nbsp;
+<a href="https://erp.bytestore.xyz/" target="_blank"><img src="https://img.shields.io/badge/📊_erp.bytestore.xyz-000000?style=flat-square&labelColor=00d4ff&color=00d4ff&textColor=000000" alt="Binimoy Management System"/></a>
+</div>
 </td>
 <td width="45%" valign="middle" align="center">
 <a href="https://erp.bytestore.xyz/" target="_blank">
@@ -309,7 +312,63 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 <table width="100%">
 <tr>
 <td width="55%" valign="middle" align="left">
+<!-- ══════════════════════════════════════════════════════════
+     PROJECT 3 — PropoSign
+═══════════════════════════════════════════════════════════ -->
 
+<table width="100%">
+<tr>
+
+<td width="55%" valign="middle" align="left">
+
+### ✍️ <a href="http://proposign.com/" target="_blank">PropoSign</a>
+
+**AI-Powered Proposal & Electronic Signature Management System**
+
+- AI-powered proposal generation with intelligent document creation
+- Secure Electronic Signature (eSign) & approval workflow
+- Proposal Templates & Document Management System
+- Real-time proposal tracking, status monitoring & activity timeline
+- Client, Team & Role-Based Access Control (RBAC)
+- Document sharing, version control & approval history
+- Email notifications & workflow automation
+- Secure RESTful API with authentication & authorization
+
+<a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel"/></a>
+<a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP_8.x-0d1117?style=flat-square&logo=php&logoColor=777BB4" alt="PHP 8.x"/></a>
+<a href="https://restfulapi.net/" target="_blank"><img src="https://img.shields.io/badge/RESTful_API-0d1117?style=flat-square&logo=fastapi&logoColor=009688" alt="RESTful API"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL"/></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap_5-0d1117?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap 5"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank"><img src="https://img.shields.io/badge/AJAX-0d1117?style=flat-square&logoColor=F7DF1E" alt="AJAX"/></a>
+<a href="https://laravel.com/docs/blade" target="_blank"><img src="https://img.shields.io/badge/Laravel_Blade-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel Blade"/></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js"/></a>
+<a href="https://getcomposer.org/" target="_blank"><img src="https://img.shields.io/badge/Composer-0d1117?style=flat-square&logo=composer&logoColor=885630" alt="Composer"/></a>
+<div>
+<a href="https://proposign.com/" target="_blank"><img src="https://img.shields.io/badge/🔗_LIVE_SITE-0d1117?style=flat-square&labelColor=000000&color=0d1117" alt="Live Site"/></a>
+&nbsp;
+<a href="https://proposign.com/" target="_blank"><img src="https://img.shields.io/badge/📊_proposign.com-000000?style=flat-square&labelColor=00d4ff&color=00d4ff&textColor=000000" alt="Binimoy Management System"/></a>
+</div>
+
+
+</td>
+
+<td width="45%" valign="middle" align="center">
+
+<a href="http://proposign.com/" target="_blank">
+
+<img width="100%" src="https://drive.google.com/uc?export=view&id=1JAEW1kz2mkPQUM3WU3chzTaLJbfOoK8Q" alt="PropoSign"/>
+
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
 ### 🏥 <a href="https://sumayaportfolio.lovable.app/" target="_blank">MediCore</a>
 **Full-Stack Hospital Management System**
 
