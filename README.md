@@ -133,9 +133,6 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 <br>
 
 
-
-<br><br>
-
 <h3>🎨 Frontend Development</h3>
 
 <img src="https://img.shields.io/badge/HTML5-050a0f?style=for-the-badge&logo=html5&logoColor=E34F26"/>
@@ -152,7 +149,7 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 
 <img src="https://img.shields.io/badge/AJAX_|_Responsive_Design_|_Figma-050a0f?style=flat-square"/>
 
-<br><br>
+<br>
 
 <h3>🗄️ Database Management</h3>
 
@@ -164,7 +161,7 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 
 <img src="https://img.shields.io/badge/Database_Design_|_Query_Optimization_|_Data_Management-050a0f?style=flat-square"/>
 
-<br><br>
+<br>
 
 <h3>🤖 AI • Generative AI • LLM</h3>
 
@@ -182,14 +179,14 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 <img src="https://img.shields.io/badge/Tools_|_Tool_Calling_|_AI_Agents-050a0f?style=flat-square"/>
 <img src="https://img.shields.io/badge/LangServe_|_LangSmith-050a0f?style=flat-square"/>
 
-<br><br>
+<br>
 
 <h3>💳 Payment Gateway</h3>
 
 <img src="https://img.shields.io/badge/SSLCommerz-050a0f?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PayPal-050a0f?style=for-the-badge&logo=paypal&logoColor=00457C"/>
 
-<br><br>
+<br>
 
 <h3>🛠️ Tools & Platforms</h3>
 
@@ -204,7 +201,7 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 
 <img src="https://img.shields.io/badge/Deployment_|_Hosting_|_Domain_|_SSL-050a0f?style=flat-square"/>
 
-<br><br>
+<br>
 
 <h3>🤝 AI-Assisted Development</h3>
 
