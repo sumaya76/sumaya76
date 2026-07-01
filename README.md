@@ -236,9 +236,6 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 </div>
 
 <br/>
-
-A powerful business and financial management platform developed with **Laravel 11**, **PHP 8.2**, and **MySQL**, designed to streamline daily business operations through secure workflows, automated processes, and role-based administration.
-
 **Key Features:**
 - Secure authentication with Role-Based Access Control (RBAC)
 - Member, customer, and business record management
@@ -274,12 +271,11 @@ A powerful business and financial management platform developed with **Laravel 1
 
 <div>
 <a href="https://erp.bytestore.xyz/" target="_blank"><img src="https://img.shields.io/badge/🔗_LIVE_SITE-0d1117?style=flat-square&labelColor=000000&color=0d1117" alt="Live Site"/></a>
+&nbsp;
+<a href="https://erp.bytestore.xyz/" target="_blank"><img src="https://img.shields.io/badge/📊_erp.bytestore.xyz-000000?style=flat-square&labelColor=00d4ff&color=00d4ff&textColor=000000" alt="Binimoy Management System"/></a>
 </div>
 
 <br/>
-
-A comprehensive **Enterprise Resource Planning (ERP)** system built with **Laravel 12**, combining a secure **RESTful API** with a responsive frontend to streamline business operations, financial management, inventory control, and workforce administration.
-
 **Core Modules:**
 - Real-time dashboard with interactive analytics & financial insights
 - Sales, Purchase & Order Management with tracking
