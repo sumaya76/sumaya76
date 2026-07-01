@@ -232,7 +232,7 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 <div>
 <a href="https://binimoye.timerni.com/" target="_blank"><img src="https://img.shields.io/badge/🔗_LIVE_SITE-0d1117?style=flat-square&labelColor=000000&color=0d1117" alt="Live Site"/></a>
 &nbsp;
-<a href="https://binimoye.timerni.com/" target="_blank"><img src="https://img.shields.io/badge/📊_PAPERSGRAPH.COM-000000?style=flat-square&labelColor=00d4ff&color=00d4ff&textColor=000000" alt="Binimoy Management System"/></a>
+<a href="https://binimoye.timerni.com/" target="_blank"><img src="https://img.shields.io/badge/📊_binimoye.timerni.com-000000?style=flat-square&labelColor=00d4ff&color=00d4ff&textColor=000000" alt="Binimoy Management System"/></a>
 </div>
 
 <br/>
