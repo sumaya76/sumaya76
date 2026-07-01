@@ -216,28 +216,32 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 <div align="center">
 
 <!-- ══════════════════════════════════════════════════════════
-     PROJECT 1 — HireFlow
+     PROJECT 1 — Binimoy Management System
 ═══════════════════════════════════════════════════════════ -->
 <table width="100%">
 <tr>
 <td width="45%" valign="middle" align="center">
-<a href="https://sumayaportfolio.lovable.app/" target="_blank">
-<img width="100%" src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1200&q=80" alt="HireFlow"/>
+<a href="https://binimoye.timerni.com/" target="_blank">
+<img width="100%" src="https://drive.google.com/uc?export=view&id=1_-xbMjHjb4Va3jJOXi5Q3QKvuCCcm-AD" alt="Binimoy Management System"/>
 </a>
 </td>
 <td width="55%" valign="middle" align="left">
 
-### 🤝 <a href="https://sumayaportfolio.lovable.app/" target="_blank">HireFlow</a>
-**AI-Powered Applicant Tracking System**
+### 🏢 <a href="https://binimoye.timerni.com/" target="_blank">Binimoy Management System</a>
+**Live Demo: [binimoye.timerni.com](https://binimoye.timerni.com/)**
 
-- Multi-tenant recruitment platform with role-based access control
-- Semantic candidate-job matching using OpenAI embeddings and pgvector
-- Real-time Kanban pipelines with WebSockets, Redis, and Celery
+- Management system built with Laravel 11 and PHP 8.2 for smooth business operations
+- Secure authentication and role-based access control for different users
+- Responsive UI with Bootstrap 5, JavaScript, AJAX, and dynamic interactions
+- Designed for efficient data handling and modern admin workflows
 
-<a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI"/></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=336791" alt="PostgreSQL"/></a>
+<a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel_11-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel 11"/></a>
+<a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP_8.2-0d1117?style=flat-square&logo=php&logoColor=777BB4" alt="PHP 8.2"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL"/></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap_5-0d1117?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap 5"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js"/></a>
+<a href="https://getcomposer.org/" target="_blank"><img src="https://img.shields.io/badge/Composer-0d1117?style=flat-square&logo=composer&logoColor=885630" alt="Composer"/></a>
 
 </td>
 </tr>
