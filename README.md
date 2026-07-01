@@ -40,24 +40,25 @@
 
 <img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-I’m a Laravel-focused software engineer who mainly builds reliable web applications with clean architecture, secure APIs, and thoughtful user experiences. My core strength is backend development with PHP and Laravel, and I also work comfortably on modern frontend solutions when needed.
+I'm a **Full-Stack Developer with a Backend-first focus**, building reliable, end-to-end web applications with clean architecture and secure APIs. My core strength lies in **Laravel & PHP backend development**, and I extend that into modern frontend stacks like React and Next.js whenever a project needs it.
 <br/>
 
-🔹 **Core Strength:** Laravel, PHP, REST APIs, MySQL, backend system design
+🔹 **What I Build:** ERP systems, hospital management platforms, cooperative and microfinance solutions, education platforms, and AI-powered business applications, among others.
 
-🔹 **Also Comfortable With:** React, Next.js, Vue.js, FastAPI, Django, Tailwind CSS
+🔹 **Core Focus (Backend):** Laravel, PHP, MySQL, REST APIs, RBAC, System Design
 
-🔹 **Focus:** Building scalable business platforms, secure web applications, and solutions that solve real-world problems
+🔹 **Full-Stack Range:** React, Next.js, Vue.js, FastAPI, Django, Tailwind CSS
+
+🔹 **Currently Exploring:** Generative AI, RAG pipelines, LangChain & AI Agents — bringing intelligent features into everyday web apps
 <br/>
 
-I’ve worked on recruitment systems, hospital platforms, cooperative management tools, and education solutions, with a strong focus on practical, maintainable development.
+Over the past year, I've shipped production systems handling real financial data, patient records, and multi-role workflows — always with a focus on security, maintainability, and clean architecture over quick hacks.
 
-Always curious to learn, build, and improve. ✨
+I'm currently open to interesting backend/full-stack collaborations — feel free to reach out! ✨
 
 <br clear="right"/>
 </div>
 
----
 
 ## 🚀 Current Focus
 
@@ -65,22 +66,43 @@ Always curious to learn, build, and improve. ✨
 
 <table width="100%" cellpadding="12" cellspacing="0" border="0">
 <tr>
-<td width="50%" align="center" style="background:linear-gradient(135deg, rgba(17,24,39,0.95), rgba(30,41,59,0.95)); border:1px solid rgba(139,92,246,0.35); border-radius:16px; padding:12px; box-shadow:0 8px 24px rgba(139,92,246,0.15);">
-<b>🔧 Core Focus</b><br/>Laravel, PHP & Backend Architecture<br/>REST APIs, MySQL & Performance
+
+<td width="50%" align="center">
+
+### 💻 Building
+
+**Full-Stack Web Applications**
+
+Laravel • FastAPI • React • Next.js
+
+REST APIs • Database Design • System Architecture
+
 </td>
-<td width="50%" align="center" style="background:linear-gradient(135deg, rgba(17,24,39,0.95), rgba(8,47,73,0.95)); border:1px solid rgba(34,211,238,0.35); border-radius:16px; padding:12px; box-shadow:0 8px 24px rgba(34,211,238,0.15);">
-<b>🌱 Also Exploring</b><br/>AI-powered web products<br/>LLM/API integration & automation
+
+<td width="50%" align="center">
+
+### 🤖 Learning & Exploring
+
+**Generative AI & LLM Engineering**
+
+LangChain • RAG • AI Agents
+
+Prompt Engineering • MCP
+
 </td>
+
 </tr>
 </table>
 
 </div>
 
----
+
 
 ## 💼 Current Role
 
-Laravel Developer & Backend Engineer focused on building scalable web applications, secure APIs, and dependable business solutions with PHP and Laravel at the core.
+🚀 **Backend Developer & AI/ML Engineer** at **Timerni**
+
+Building scalable backend architectures, developing secure RESTful APIs, integrating AI-powered features, and delivering enterprise web applications using **Laravel, PHP, FastAPI, MySQL, Python, and modern AI technologies**.
 
 
 ## 📌 Experience Snapshot
@@ -91,27 +113,9 @@ Laravel Developer & Backend Engineer focused on building scalable web applicatio
 
 Focused on Laravel-based backend development, API building, deployment, and end-to-end web application delivery.
 
----
 
-## ✨ Highlights
 
-<div align="center">
-<table width="100%" cellpadding="10" cellspacing="12" border="0">
-<tr>
-<td width="33%" align="center" style="background:linear-gradient(135deg, rgba(17,24,39,0.95), rgba(30,41,59,0.95)); border:1px solid rgba(139,92,246,0.25); border-radius:16px; padding:12px;">
-<b>🧠 Backend-first</b><br/>Laravel, PHP, and scalable APIs
-</td>
-<td width="33%" align="center" style="background:linear-gradient(135deg, rgba(17,24,39,0.95), rgba(30,41,59,0.95)); border:1px solid rgba(34,211,238,0.25); border-radius:16px; padding:12px;">
-<b>⚡ Full-stack ready</b><br/>React, Next.js, Vue, and Tailwind
-</td>
-<td width="33%" align="center" style="background:linear-gradient(135deg, rgba(17,24,39,0.95), rgba(30,41,59,0.95)); border:1px solid rgba(16,185,129,0.25); border-radius:16px; padding:12px;">
-<b>🚀 Product mindset</b><br/>Deployment, integrations, and real solutions
-</td>
-</tr>
-</table>
-</div>
 
----
 
 <h2>🧰 Tech Stack</h2>
 
