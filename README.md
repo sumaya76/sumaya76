@@ -305,13 +305,6 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 </table>
 
 <br/>
-
-<!-- ══════════════════════════════════════════════════════════
-     PROJECT 2 — MediCore
-═══════════════════════════════════════════════════════════ -->
-<table width="100%">
-<tr>
-<td width="55%" valign="middle" align="left">
 <!-- ══════════════════════════════════════════════════════════
      PROJECT 3 — PropoSign
 ═══════════════════════════════════════════════════════════ -->
@@ -369,6 +362,14 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 </table>
 
 <br/>
+
+<!-- ══════════════════════════════════════════════════════════
+     PROJECT 2 — MediCore
+═══════════════════════════════════════════════════════════ -->
+<table width="100%">
+<tr>
+<td width="55%" valign="middle" align="left">
+
 ### 🏥 <a href="https://sumayaportfolio.lovable.app/" target="_blank">MediCore</a>
 **Full-Stack Hospital Management System**
 
