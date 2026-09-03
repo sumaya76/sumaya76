@@ -294,6 +294,55 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 
 <br/>
 
+
+<!-- ══════════════════════════════════════════════════════════
+     PROJECT 2 — AI CRM Dashboard
+═══════════════════════════════════════════════════════════ -->
+
+<table width="100%">
+<tr>
+
+<td width="45%" valign="middle" align="center">
+  <a href="https://deploy-preview-1--phenomenal-lokum-06a281.netlify.app/login" target="_blank">
+    <img
+      width="100%"
+      src="https://drive.google.com/uc?export=view&id=1v7hRhfyio5yNYL8Kkc8L8GRKtIEX1WAr"
+      alt="AI CRM Dashboard"
+    />
+  </a>
+</td>
+
+<td width="55%" valign="middle" align="left">
+
+### 🤖 <a href="https://deploy-preview-1--phenomenal-lokum-06a281.netlify.app/login" target="_blank">AI CRM Dashboard</a>
+
+**AI-Powered Customer Relationship & Sales Management System**
+
+* Secure authentication with JWT and role-based access
+* Lead, contact, and customer relationship management
+* Complete sales pipeline and opportunity tracking
+* Task, follow-up, and activity management
+* AI-powered lead scoring, risk analysis, and prioritization
+* AI-generated lead summaries and next-best actions
+* AI-powered email drafting with SMTP delivery
+* Revenue forecasting and sales performance insights
+* Advanced analytics for pipeline, conversion, and revenue
+* Team collaboration with ownership and assignment controls
+* CSV lead export with advanced search, filtering, and sorting
+* Responsive dashboard with real-time CRM insights
+
+<a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/></a> <a href="https://vite.dev/" target="_blank"><img src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite"/></a> <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js"/></a> <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express.js"/></a> <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB"/></a> <a href="https://mongoosejs.com/" target="_blank"><img src="https://img.shields.io/badge/Mongoose-0d1117?style=flat-square&logo=mongoose&logoColor=880000" alt="Mongoose"/></a> <a href="https://www.mistral.ai/" target="_blank"><img src="https://img.shields.io/badge/Mistral_AI-0d1117?style=flat-square&logoColor=FF7000" alt="Mistral AI"/></a> <a href="https://jwt.io/" target="_blank"><img src="https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF" alt="JWT"/></a> <a href="https://recharts.org/" target="_blank"><img src="https://img.shields.io/badge/Recharts-0d1117?style=flat-square&logoColor=FF6384" alt="Recharts"/></a> <a href="https://nodemailer.com/" target="_blank"><img src="https://img.shields.io/badge/Nodemailer-0d1117?style=flat-square&logoColor=22B573" alt="Nodemailer"/></a> <a href="https://www.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-0d1117?style=flat-square&logo=netlify&logoColor=00C7B7" alt="Netlify"/></a>
+
+<div>
+<a href="https://deploy-preview-1--phenomenal-lokum-06a281.netlify.app/login" target="_blank"><img src="https://img.shields.io/badge/🔗_LIVE_SITE-0d1117?style=flat-square&labelColor=000000&color=0d1117" alt="Live Site"/></a>
+&nbsp;
+<a href="https://github.com/sumaya76/AI-CRM" target="_blank"><img src="https://img.shields.io/badge/💻_SOURCE_CODE-000000?style=flat-square&labelColor=00d4ff&color=00d4ff&textColor=000000" alt="Source Code"/></a>
+</div>
+</td>
+</tr>
+</table>
+
+<br/>
 <!-- ══════════════════════════════════════════════════════════
      PROJECT 2 — InterviewVerse
 ═══════════════════════════════════════════════════════════ -->
