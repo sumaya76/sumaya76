@@ -293,6 +293,71 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 </table>
 
 <br/>
+
+<!-- ══════════════════════════════════════════════════════════
+     PROJECT 2 — InterviewVerse
+═══════════════════════════════════════════════════════════ -->
+
+<table width="100%">
+<tr>
+
+<td width="45%" valign="middle" align="center">
+<a href="https://interview-verse-six.vercel.app/" target="_blank">
+<img
+  width="100%"
+  src="https://drive.google.com/thumbnail?id=1k6uYpwFS72lRN7sTpsXs6IwFalPqPJUO&sz=w1000"
+  alt="InterviewVerse"
+/>
+</a>
+</td>
+
+<td width="55%" valign="middle" align="left">
+
+### 🎤 <a href="https://interview-verse-six.vercel.app/" target="_blank">InterviewVerse</a>
+
+**AI-Powered Mock Interview & Career Preparation Platform**
+
+* AI-generated interview questions based on role, experience & difficulty
+* Real-time speech-to-text interview transcription
+* Webcam-based attention & face-presence tracking
+* AI evaluation for **Clarity, Relevance & Depth**
+* Confidence analysis with filler-word & WPM detection
+* Detailed performance reports with personalized feedback
+* AI-powered **STAR Story Builder & Interview Debrief**
+* Company insights with personalized preparation plans
+* Skill Radar, progress tracking & weak-area detection
+* Secure authentication with Clerk OAuth
+* Fully responsive **Dark / Light Mode**
+
+<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js_15-0d1117?style=flat-square&logo=next.js&logoColor=FFFFFF" alt="Next.js 15"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/></a>
+<a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React_19-0d1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS_v4-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/></a>
+<a href="https://ai.google.dev/" target="_blank"><img src="https://img.shields.io/badge/Gemini_AI-0d1117?style=flat-square&logo=google&logoColor=4285F4" alt="Gemini AI"/></a>
+<a href="https://groq.com/" target="_blank"><img src="https://img.shields.io/badge/Groq_AI-0d1117?style=flat-square&logoColor=FFFFFF" alt="Groq AI"/></a>
+<a href="https://clerk.com/" target="_blank"><img src="https://img.shields.io/badge/Clerk-0d1117?style=flat-square&logo=clerk&logoColor=FFFFFF" alt="Clerk"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/></a>
+<a href="https://orm.drizzle.team/" target="_blank"><img src="https://img.shields.io/badge/Drizzle_ORM-0d1117?style=flat-square&logo=drizzle&logoColor=C5F74F" alt="Drizzle ORM"/></a>
+<a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="Vercel"/></a>
+<a href="https://www.framer.com/motion/" target="_blank"><img src="https://img.shields.io/badge/Framer_Motion-0d1117?style=flat-square&logo=framer&logoColor=FFFFFF" alt="Framer Motion"/></a>
+
+<div>
+<a href="https://interview-verse-six.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🔗_LIVE_SITE-0d1117?style=flat-square&labelColor=000000&color=0d1117" alt="Live Site"/>
+</a>
+&nbsp;
+<a href="https://github.com/sumaya76/InterviewVerse" target="_blank">
+<img src="https://img.shields.io/badge/💻_SOURCE_CODE-000000?style=flat-square&labelColor=00d4ff&color=00d4ff&textColor=000000" alt="Source Code"/>
+</a>
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+```
+
 <!-- ══════════════════════════════════════════════════════════
      PROJECT 2 — ERP Management System
 ═══════════════════════════════════════════════════════════ -->
