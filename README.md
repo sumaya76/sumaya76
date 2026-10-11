@@ -249,19 +249,20 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 
 <div align="center">
 
+
 <!-- ══════════════════════════════════════════════════════════
-     PROJECT 1 — Binimoy Management System
+     PROJECT 1 — Somiti Management System
 ═══════════════════════════════════════════════════════════ -->
 <table width="100%">
 <tr>
 <td width="45%" valign="middle" align="center">
-<a href="https://binimoye.timerni.com/" target="_blank">
-<img width="100%" src="https://drive.google.com/uc?export=view&id=1_-xbMjHjb4Va3jJOXi5Q3QKvuCCcm-AD" alt="Binimoy Management System"/>
+<a href="https://github.com/sumaya76/SomitiManagementSystem" target="_blank">
+<img width="100%" src="https://drive.google.com/uc?export=view&id=1_-xbMjHjb4Va3jJOXi5Q3QKvuCCcm-AD" alt="Somiti Management System"/>
 </a>
 </td>
 <td width="55%" valign="middle" align="left">
 
-### 🏢 <a href="https://binimoye.timerni.com/" target="_blank">Binimoy Management System</a>
+### 🏢 <a href="https://github.com/sumaya76/SomitiManagementSystem" target="_blank">Somiti Management System</a>
 **Business & Financial Management System**
 
 - Secure authentication with Role-Based Access Control (RBAC)
@@ -269,7 +270,7 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 - Financial transaction and reporting modules
 - Dynamic dashboards with real-time data insights
 - Responsive admin interface using Bootstrap 5
-- AJAX-powered CRUD operations for seamless user experience
+- AJAX-powered CRUD operations for a seamless user experience
 - Secure data validation and optimized database performance
 - Modular architecture following Laravel best practices
 
@@ -280,19 +281,19 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank"><img src="https://img.shields.io/badge/AJAX-0d1117?style=flat-square&logoColor=F7DF1E" alt="AJAX"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank"><img src="https://img.shields.io/badge/AJAX-0d1117?style=flat-square" alt="AJAX"/></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js"/></a>
 <a href="https://getcomposer.org/" target="_blank"><img src="https://img.shields.io/badge/Composer-0d1117?style=flat-square&logo=composer&logoColor=885630" alt="Composer"/></a>
+
 <div>
-<a href="https://binimoye.timerni.com/" target="_blank"><img src="https://img.shields.io/badge/🔗_LIVE_SITE-0d1117?style=flat-square&labelColor=000000&color=0d1117" alt="Live Site"/></a>
-&nbsp;
-<a href="https://binimoye.timerni.com/" target="_blank"><img src="https://img.shields.io/badge/📊_binimoye.timerni.com-000000?style=flat-square&labelColor=00d4ff&color=00d4ff&textColor=000000" alt="Binimoy Management System"/></a>
+<a href="https://github.com/sumaya76/SomitiManagementSystem" target="_blank"><img src="https://img.shields.io/badge/💻_SOURCE_CODE-0d1117?style=flat-square&labelColor=000000&color=0d1117" alt="Source Code"/></a>
 </div>
 </td>
 </tr>
 </table>
 
 <br/>
+
 
 
 <!-- ══════════════════════════════════════════════════════════
