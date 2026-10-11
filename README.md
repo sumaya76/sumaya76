@@ -512,65 +512,6 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════
-     PROJECT 2 — MediCore
-═══════════════════════════════════════════════════════════ -->
-<table width="100%">
-<tr>
-<td width="55%" valign="middle" align="left">
-
-### 🏥 <a href="https://sumayaportfolio.lovable.app/" target="_blank">MediCore</a>
-**Full-Stack Hospital Management System**
-
-- Covers patient, doctor, appointment, billing, pharmacy, and analytics modules
-- JWT authentication with REST APIs and PostgreSQL integration
-- AI-powered hospital assistant with PDF export and reporting dashboards
-
-<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=ffffff" alt="Next.js"/></a>
-<a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/></a>
-<a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel"/></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=336791" alt="PostgreSQL"/></a>
-
-</td>
-<td width="45%" valign="middle" align="center">
-<a href="https://sumayaportfolio.lovable.app/" target="_blank">
-<img width="100%" src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80" alt="MediCore"/>
-</a>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════
-     PROJECT 3 — Somiti Management System
-═══════════════════════════════════════════════════════════ -->
-<table width="100%">
-<tr>
-<td width="45%" valign="middle" align="center">
-<a href="https://sumayaportfolio.lovable.app/" target="_blank">
-<img width="100%" src="https://images.unsplash.com/photo-1556740749-887f6717d7e4?auto=format&fit=crop&w=1200&q=80" alt="Somiti Management System"/>
-</a>
-</td>
-<td width="55%" valign="middle" align="left">
-
-### 🏦 <a href="https://sumayaportfolio.lovable.app/" target="_blank">Somiti Management System</a>
-**Microfinance & Cooperative Platform**
-
-- Supports savings groups, loans, DPS/FDR, and double-entry accounting
-- Multi-level approval workflows with digital signatures and installment schedules
-- 15+ core modules with 80+ migrations and full financial reporting
-
-<a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel"/></a>
-<a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=777BB4" alt="PHP"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL"/></a>
-<a href="https://spatie.be/open-source" target="_blank"><img src="https://img.shields.io/badge/Spatie_RBAC-0d1117?style=flat-square&logoColor=ffffff" alt="Spatie RBAC"/></a>
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 <!-- ══════════════════════════════════════════════════════════
      PROJECT 4 — Swap
