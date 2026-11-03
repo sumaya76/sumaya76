@@ -296,22 +296,13 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 
 
 
+
 <!-- ══════════════════════════════════════════════════════════
      PROJECT 2 — AI CRM Dashboard
 ═══════════════════════════════════════════════════════════ -->
 
 <table width="100%">
 <tr>
-
-<td width="45%" valign="middle" align="center">
-  <a href="https://deploy-preview-1--phenomenal-lokum-06a281.netlify.app/login" target="_blank">
-    <img
-      width="100%"
-      src="https://drive.google.com/uc?export=view&id=1v7hRhfyio5yNYL8Kkc8L8GRKtIEX1WAr"
-      alt="AI CRM Dashboard"
-    />
-  </a>
-</td>
 
 <td width="55%" valign="middle" align="left">
 
@@ -339,11 +330,24 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 &nbsp;
 <a href="https://github.com/sumaya76/AI-CRM" target="_blank"><img src="https://img.shields.io/badge/💻_SOURCE_CODE-000000?style=flat-square&labelColor=00d4ff&color=00d4ff&textColor=000000" alt="Source Code"/></a>
 </div>
+
 </td>
+
+<td width="45%" valign="middle" align="center">
+  <a href="https://deploy-preview-1--phenomenal-lokum-06a281.netlify.app/login" target="_blank">
+    <img
+      width="100%"
+      src="https://drive.google.com/uc?export=view&id=1v7hRhfyio5yNYL8Kkc8L8GRKtIEX1WAr"
+      alt="AI CRM Dashboard"
+    />
+  </a>
+</td>
+
 </tr>
 </table>
 
 <br/>
+
 <!-- ══════════════════════════════════════════════════════════
      PROJECT 1 — NOVAZEN E-COMMERCE PLATFORM
 ═══════════════════════════════════════════════════════════ -->
