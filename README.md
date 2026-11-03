@@ -473,54 +473,68 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 </table>
 
 <br/>
-```
 
 <!-- ══════════════════════════════════════════════════════════
-     PROJECT 4 — ERP Management System
+     PROJECT 4 — BUILDDESK CONSTRUCTION ERP
 ═══════════════════════════════════════════════════════════ -->
+
 <table width="100%">
 <tr>
+
 <td width="55%" valign="middle" align="left">
 
-### 📊 <a href="https://erp.bytestore.xyz/" target="_blank">ERP Management System</a>
-**Full-Stack Enterprise Resource Planning (ERP) System**
+### 🏗️ <a href="https://erp.novazenglobal.com/" target="_blank">BuildDesk – Construction ERP</a>
 
+**Full-Stack Construction Management & Enterprise Resource Planning System**
 
-- Real-time dashboard with interactive analytics & financial insights
-- Sales, Purchase & Order Management with tracking
-- Inventory & Stock Control System
-- Customer, Supplier & Party Management with due tracking
-- Accounts, Banking & Financial Reporting
-- Employee & HR Management with RBAC
-- Secure API with role-based access control
+- Role-Based Admin & HR Dashboards with secure authentication and access control
+- Workforce Management with worker profiles, employment status, and project assignments
+- Attendance Management with check-in/out, overtime, worked hours, and client-billable hours
+- Payroll Management with monthly payroll, overtime calculation, advance deductions, and payroll history
+- Project Management with milestones, site progress updates, budget tracking, and document management
+- Procurement & Inventory Management with suppliers, materials, purchase requests, quotations, and purchase orders
+- Inventory Stock Ledger with partial/full delivery tracking, stock balances, and low-stock monitoring
+- Approval Workflow for purchase requests, expenses, payroll, and project quotations
+- Financial Management with project expenses, Profit & Loss reports, and budget quotations
+- Client Sales Invoice Management with VAT, payment status, invoice editing, and PDF generation
+- HR Reports including attendance sheets, project-wise attendance, and client billing reports
+- Notification & Reminder System for pending approvals, low stock, deadlines, and expiring documents
+- CSV Import/Export, automated reminders, and application testing
 
 <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel_12-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel 12"/></a>
 <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP_8.2-0d1117?style=flat-square&logo=php&logoColor=777BB4" alt="PHP 8.2"/></a>
-<a href="https://restfulapi.net/" target="_blank"><img src="https://img.shields.io/badge/RESTful_API-0d1117?style=flat-square&logo=fastapi&logoColor=009688" alt="RESTful API"/></a>
+<a href="https://livewire.laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Livewire_4-0d1117?style=flat-square&logo=livewire&logoColor=FB70A9" alt="Livewire 4"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL"/></a>
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap_5-0d1117?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap 5"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank"><img src="https://img.shields.io/badge/AJAX-0d1117?style=flat-square&logoColor=F7DF1E" alt="AJAX"/></a>
-<a href="https://laravel.com/docs/blade" target="_blank"><img src="https://img.shields.io/badge/Laravel_Blade-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel Blade"/></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js"/></a>
+<a href="https://vite.dev/" target="_blank"><img src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite"/></a>
 <a href="https://getcomposer.org/" target="_blank"><img src="https://img.shields.io/badge/Composer-0d1117?style=flat-square&logo=composer&logoColor=885630" alt="Composer"/></a>
+
 <div>
-<a href="https://erp.bytestore.xyz/" target="_blank"><img src="https://img.shields.io/badge/🔗_LIVE_SITE-0d1117?style=flat-square&labelColor=000000&color=0d1117" alt="Live Site"/></a>
+<a href="https://erp.novazenglobal.com/" target="_blank"><img src="https://img.shields.io/badge/🔗_LIVE_SITE-0d1117?style=flat-square&labelColor=000000&color=0d1117" alt="Live Site"/></a>
 &nbsp;
-<a href="https://erp.bytestore.xyz/" target="_blank"><img src="https://img.shields.io/badge/📊_erp.bytestore.xyz-000000?style=flat-square&labelColor=00d4ff&color=00d4ff&textColor=000000" alt="Binimoy Management System"/></a>
+<a href="https://github.com/sumaya76/ERP-System" target="_blank"><img src="https://img.shields.io/badge/💻_SOURCE_CODE-000000?style=flat-square&labelColor=238636&color=238636" alt="Source Code"/></a>
 </div>
+
 </td>
+
 <td width="45%" valign="middle" align="center">
-<a href="https://erp.bytestore.xyz/" target="_blank">
-<img width="100%" src="https://drive.google.com/uc?export=view&id=1VMOcU6j-ih40eDW259ZPPLaH6rz-DQnx" alt="ERP Management System"/>
+<a href="https://erp.novazenglobal.com/" target="_blank">
+<img
+  width="100%"
+  src="https://drive.google.com/uc?export=view&id=1hxyjoTyUfl_QOQilTpMNCDyHhAbrg5vY"
+  alt="BuildDesk Construction ERP Dashboard"
+/>
 </a>
 </td>
+
 </tr>
 </table>
 
 <br/>
+
 <!-- ══════════════════════════════════════════════════════════
      PROJECT 5 — PropoSign
 ═══════════════════════════════════════════════════════════ -->
