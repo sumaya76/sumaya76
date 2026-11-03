@@ -345,7 +345,70 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 
 <br/>
 <!-- ══════════════════════════════════════════════════════════
-     PROJECT 2 — InterviewVerse
+     PROJECT 1 — NOVAZEN E-COMMERCE PLATFORM
+═══════════════════════════════════════════════════════════ -->
+
+<table width="100%">
+<tr>
+
+<td width="45%" valign="middle" align="center">
+  <a href="https://www.novazenglobal.com/" target="_blank">
+    <img
+      width="100%"
+      src="https://drive.google.com/uc?export=view&id=10r52BUUxTio1A_Lmw01PrsVa67xgVLGX"
+      alt="NovaZen E-Commerce Platform"
+    />
+  </a>
+</td>
+
+<td width="55%" valign="middle" align="left">
+
+### ☀️ <a href="https://www.novazenglobal.com/" target="_blank">NovaZen – E-Commerce Platform</a>
+
+**Full-Stack Solar Energy & Technology E-Commerce Management System**
+
+* Complete responsive e-commerce storefront with advanced product discovery and shopping experience
+* Advanced product catalog with nested categories, brands, variants, SKU, pricing, and inventory management
+* Shopping cart, wishlist, coupon management, and streamlined checkout system
+* Comprehensive order management with invoices, tracking, delivery, cancellation, and refund operations
+* Custom admin dashboard with sales analytics, KPIs, revenue insights, and business reports
+* Secure authentication and Role-Based Access Control (RBAC) with granular user permissions
+* **RESTful API Development:** Versioned REST API (`/api/v1`) with Laravel Sanctum authentication, public endpoints, protected customer and admin endpoints, and CRUD operations
+* API integration and third-party service connectivity with Steadfast and BD Courier
+* Customer account management, order history, product reviews, and notification system
+* Advanced SEO management with meta tags, canonical URLs, structured data, XML sitemap, and URL redirects
+* Dynamic content management for banners, gallery, team profiles, and promotional campaigns
+* Database architecture, Eloquent ORM, query management, and CSV import/export
+* Production server deployment and configuration using cPanel, domain, SSL, and Laravel hosting environment
+* Server-side application configuration, storage management, environment setup, and production troubleshooting
+* Application testing, performance optimization, and production maintenance
+
+<a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel_12-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel"/></a>
+<a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP_8.2+-0d1117?style=flat-square&logo=php&logoColor=777BB4" alt="PHP"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS_4-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL"/></a>
+<a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite"/></a>
+<a href="https://laravel.com/docs/sanctum" target="_blank"><img src="https://img.shields.io/badge/REST_API_&_Sanctum-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20" alt="REST API and Laravel Sanctum"/></a>
+<a href="https://spatie.be/docs/laravel-permission" target="_blank"><img src="https://img.shields.io/badge/Spatie_RBAC-0d1117?style=flat-square&logoColor=FFFFFF" alt="Spatie RBAC"/></a>
+<a href="https://vite.dev/" target="_blank"><img src="https://img.shields.io/badge/Vite_7-0d1117?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite"/></a>
+<a href="https://phpunit.de/" target="_blank"><img src="https://img.shields.io/badge/PHPUnit_11-0d1117?style=flat-square&logo=php&logoColor=777BB4" alt="PHPUnit"/></a>
+<a href="https://httpd.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache-0d1117?style=flat-square&logo=apache&logoColor=D22128" alt="Apache"/></a>
+<a href="https://cpanel.net/" target="_blank"><img src="https://img.shields.io/badge/cPanel-0d1117?style=flat-square&logo=cpanel&logoColor=FF6C2C" alt="cPanel"/></a>
+
+<div>
+<a href="https://www.novazenglobal.com/" target="_blank"><img src="https://img.shields.io/badge/🔗_LIVE_SITE-0d1117?style=flat-square&labelColor=000000&color=0d1117" alt="Live Site"/></a>
+&nbsp;
+<a href="https://github.com/sumaya76/multivendorecommerce" target="_blank"><img src="https://img.shields.io/badge/💻_SOURCE_CODE-000000?style=flat-square&labelColor=00d4ff&color=00d4ff" alt="Source Code"/></a>
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+<!-- ══════════════════════════════════════════════════════════
+     PROJECT 3 — InterviewVerse
 ═══════════════════════════════════════════════════════════ -->
 
 <table width="100%">
@@ -409,7 +472,7 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 ```
 
 <!-- ══════════════════════════════════════════════════════════
-     PROJECT 2 — ERP Management System
+     PROJECT 4 — ERP Management System
 ═══════════════════════════════════════════════════════════ -->
 <table width="100%">
 <tr>
@@ -455,7 +518,7 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 
 <br/>
 <!-- ══════════════════════════════════════════════════════════
-     PROJECT 3 — PropoSign
+     PROJECT 5 — PropoSign
 ═══════════════════════════════════════════════════════════ -->
 
 <table width="100%">
@@ -514,7 +577,7 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 
 
 <!-- ══════════════════════════════════════════════════════════
-     PROJECT 4 — Swap
+     PROJECT 6 — Swap
 ═══════════════════════════════════════════════════════════ -->
 <table width="100%">
 <tr>
@@ -544,7 +607,7 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════
-     PROJECT 5 — EduManage Pro
+     PROJECT 7 — EduManage Pro
 ═══════════════════════════════════════════════════════════ -->
 <table width="100%">
 <tr>
