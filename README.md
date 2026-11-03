@@ -595,34 +595,57 @@ Focused on Laravel-based backend development, API building, deployment, and end-
 
 
 <!-- ══════════════════════════════════════════════════════════
-     PROJECT 6 — Swap
+     PROJECT 5 — SWAPHUB SKILL & PRODUCT SWAPPING PLATFORM
 ═══════════════════════════════════════════════════════════ -->
+
 <table width="100%">
 <tr>
-<td width="55%" valign="middle" align="left">
 
-### 🔄 <a href="https://sumayaportfolio.lovable.app/" target="_blank">Swap</a>
-**Skill & Product Swapping Platform**
+<td width="100%" valign="middle" align="left">
 
-- Full-stack barter marketplace with secure authentication and role-based access
-- Real-time messaging via SSE, proposals, reviews, and notifications
-- Optimized state management with TanStack Query and image upload support
+### 🔄 <a href="https://github.com/sumaya76/swap/tree/main" target="_blank">SwapHub – Skill & Product Swapping Platform</a>
+
+**Full-Stack Marketplace for Skill & Product Exchange Without Money**
+
+- User Authentication with JWT Tokens and Secure Password Hashing
+- User Dashboard with Activity Statistics, Active Swaps, and Recent Messages
+- Listing Management with Multi-Image Upload, Categories, and Location
+- Advanced Listing Search with Category, Status, and Location Filters
+- Swap Proposal System with Accept, Decline, and Completion Tracking
+- Swap History Management with Status Updates
+- Real-Time Messaging with Threaded Conversations
+- Notification System with Server-Sent Events (SSE)
+- User Profiles with Skills, Listings, Reviews, and Ratings
+- 5-Star Review & Rating System for Completed Swaps
+- Admin Dashboard with Platform Analytics and User Management
+- Listing Approval, Fraud Reporting, and Content Moderation
+- Responsive UI with Guest Browsing and Protected Routes
+- RESTful API with FastAPI, JWT Authentication, and Role-Based Access Control
 
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python_3.9+-0d1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/></a>
 <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/></a>
+<a href="https://vite.dev/" target="_blank"><img src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/></a>
+<a href="https://www.sqlalchemy.org/" target="_blank"><img src="https://img.shields.io/badge/SQLAlchemy-0d1117?style=flat-square&logo=sqlalchemy&logoColor=D71F00" alt="SQLAlchemy"/></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/></a>
+<a href="https://ui.shadcn.com/" target="_blank"><img src="https://img.shields.io/badge/shadcn%2Fui-0d1117?style=flat-square&logo=shadcnui&logoColor=FFFFFF" alt="shadcn/ui"/></a>
+<a href="https://tanstack.com/query/latest" target="_blank"><img src="https://img.shields.io/badge/TanStack_Query-0d1117?style=flat-square&logo=reactquery&logoColor=FF4154" alt="TanStack Query"/></a>
+<a href="https://tanstack.com/router/latest" target="_blank"><img src="https://img.shields.io/badge/TanStack_Router-0d1117?style=flat-square&logo=reactrouter&logoColor=CA4245" alt="TanStack Router"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/REST_API-0d1117?style=flat-square&logo=fastapi&logoColor=009688" alt="REST API"/></a>
+
+<div>
+<a href="https://github.com/sumaya76/swap/tree/main" target="_blank"><img src="https://img.shields.io/badge/💻_SOURCE_CODE-000000?style=flat-square&labelColor=238636&color=238636" alt="Source Code"/></a>
+</div>
 
 </td>
-<td width="45%" valign="middle" align="center">
-<a href="https://sumayaportfolio.lovable.app/" target="_blank">
-<img width="100%" src="https://images.unsplash.com/photo-1516321497487-e288fb19713f?auto=format&fit=crop&w=1200&q=80" alt="Swap"/>
-</a>
-</td>
+
 </tr>
 </table>
 
 <br/>
+
 
 <!-- ══════════════════════════════════════════════════════════
      PROJECT 7 — EduManage Pro
